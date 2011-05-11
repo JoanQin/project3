@@ -1,0 +1,3 @@
+(in C:/Sites/project3)
+==  CreateTags: migrating =====================================================
+-- create_table(:tags)
